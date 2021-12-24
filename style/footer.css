@@ -1,3 +1,51 @@
 .footer{
     background-color: #3A3E31;
 }
+.logo-footer{
+    margin: 80px 0 64.19px ;
+
+    height: 79.81px;
+    width: 152px;
+}
+
+.title-footer{
+    margin-bottom: 24px;
+    size: 20px;
+    color: #FBFBFA;
+}
+
+.content-footer{
+    font-size: 12px;
+    line-height: 15px;
+    color: #FBFBFA;
+
+}
+
+.input-email {
+    background-color: #3A3E31;
+
+    border: solid #FBFBFA 1px;
+    width:260px;
+    height:30px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #FBFBFA;
+    line-height: 17px;
+    opacity: 1; /* Firefox */
+    padding-left: 10px ;
+}
+.email{
+    font-size: 16px;
+}
+.news div{
+    margin-bottom: 12px;
+}
+.news button{
+    background-color: #3A3E31;
+    border: solid #FFFFFF 1px;
+    color: #FFFFFF;
+    size: 14px;
+}
+.new a{
+    padding: 20px;
+}

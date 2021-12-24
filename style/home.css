@@ -1,0 +1,51 @@
+.our-story{
+    background-color: #AE7D74;
+}
+.content-our-story {
+    color: #FBFBFA;
+}
+.content-our-story a{
+    color: #FBFBFA;
+}
+.title-our-story{
+    color: #FBFBFA;
+}
+.image-bottom-our-story img{
+    width: 239px;
+    height: 183px;
+}
+.image-bottom-our-story{
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 10px;
+}
+.image-top-our-story{
+}
+.image-top-our-story img{
+
+    right: 20px;
+    width: 503px;
+    height: 396px;
+}
+.image-best-sale{
+    width: 240px;
+    height: 288px;
+
+
+}
+.image-best-sale{
+}
+.products-bestseller{
+    justify-content: center;
+}
+.best-seller h1{
+    text-align: center;
+}
+.price{
+    position: absolute;
+    right: 0px;
+}
+.product-bestseller{
+    margin: 20px;
+}
